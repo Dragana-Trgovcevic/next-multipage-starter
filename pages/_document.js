@@ -12,6 +12,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
+        <script async defer src="https://static.cdn.prismic.io/prismic.js?new=true&repo=mymultipagesitewithnext"></script>
           <meta charSet="utf-8" />
           <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet" />
           <link rel="icon" href="/favicon.png" type="image/png" />
