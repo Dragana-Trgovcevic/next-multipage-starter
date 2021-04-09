@@ -1,7 +1,7 @@
 # Prismic & Next.js Example Multi-Page Site
 > [Next.js](https://nextjs.org/) example multi-Page site with navigation project with content managed in [Prismic](https://prismic.io)
 
-## Check out the dedicated article to get this project up and running
+## Check out the dedicated article to get this project up and running cool
 > [Prismic project guide](https://user-guides.prismic.io/en/articles/2907799-sample-multi-page-site-with-navigation-in-next-js)
 
 
